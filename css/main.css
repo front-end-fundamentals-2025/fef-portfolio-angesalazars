@@ -1,0 +1,294 @@
+
+
+h1, p, a, h2, h3, h2, h5
+    
+    .ibm-plex-mono-thin {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+      
+      .ibm-plex-mono-extralight {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 200;
+        font-style: normal;
+      }
+      
+      .ibm-plex-mono-light {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 300;
+        font-style: normal;
+      }
+      
+      .ibm-plex-mono-regular {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .ibm-plex-mono-medium {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+      
+      .ibm-plex-mono-semibold {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 600;
+        font-style: normal;
+      }
+      
+      .ibm-plex-mono-bold {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+      .ibm-plex-mono-thin-italic {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 100;
+        font-style: italic;
+      }
+      
+      .ibm-plex-mono-extralight-italic {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 200;
+        font-style: italic;
+      }
+      
+      .ibm-plex-mono-light-italic {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 300;
+        font-style: italic;
+      }
+      
+      .ibm-plex-mono-regular-italic {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 400;
+        font-style: italic;
+      }
+      
+      .ibm-plex-mono-medium-italic {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 500;
+        font-style: italic;
+      }
+      
+      .ibm-plex-mono-semibold-italic {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 600;
+        font-style: italic;
+      }
+      
+      .ibm-plex-mono-bold-italic {
+        font-family: "IBM Plex Mono", serif;
+        font-weight: 700;
+        font-style: italic;
+      }
+      
+/* HEADER */
+
+
+#logo h1 {
+    font-weight: 700;
+    font-size: large;
+    text-align: left;
+    margin-top: 30px;
+     
+}
+
+#logo h3 {
+    font-weight: 300;
+    font-size: small;
+    text-align: left;
+    
+}
+
+
+ul{
+    list-style: none;
+    padding-left: 10cm;
+    display: flex;
+    justify-content: space-between;
+    text-align: right;
+    margin-left: 19cm;
+    margin-top: -70px; 
+}
+
+
+h1{
+    font-weight: 500;
+    font-size: 65px;
+    text-align: center;
+    margin-top: 5cm;
+    
+}
+
+h2{
+    text-align: center;
+    font-size: small;
+    margin-top: -1cm;
+
+}
+
+
+
+a{
+    font-weight: 600;
+    color: red;
+}
+
+/* MAIN */
+
+.main-img {
+    width: 12%;
+    margin-right: 5px;
+    
+}
+
+.main-img2 {
+    width: 12%;
+    margin-right: 5px;
+ 
+}
+
+.main-img3 {
+    width: 12%;
+    margin-right: 15px;
+}
+
+.images{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 1cm;
+    padding-bottom: 5cm;
+    border-bottom: 1px solid white;
+
+}
+
+/*images first collection */
+
+.elcolegio{
+    text-align: center;
+    font-size: small;
+    font-weight: 300;
+    margin-top: -12cm;
+}
+
+.c-one{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+
+.c-two{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+
+.c-three{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+
+.c-four{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+
+.c-five{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+} 
+
+.collabs{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 1cm;
+    padding-bottom: 5cm;
+    border-bottom: 1px solid white;
+
+    
+}
+
+.title{
+    text-align: center;
+    font-size: small;
+    font-weight: 300;
+    margin-top: -8cm;
+}
+
+.uno{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+.dos{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+.tres{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+.cuatro{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+.cinco{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+
+.la-lista-de-espera{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 1cm;
+    padding-bottom: 5cm;
+    border-bottom: 1px solid white;
+}
+
+
+body{
+    background-color: black;
+}
+
+h1, p, h2, h3, h2, h5 {
+    color: white;
+}
+/* FOOTER */
+
+footer {
+    margin-top: 120rem;
+    border-top: 1px solid white; 
+}
+
+h5{
+    text-align: left;
+    font-size: small;
+    font-weight: 600;
+    
+}
+
+p{
+
+    font-size: small;
+    font-weight: 300;
+    padding-left: 8cm;
+    padding-top: -8cm;
+}
+
