@@ -262,6 +262,42 @@ a{
     border-bottom: 1px solid white;
 }
 
+.titulo{
+    text-align: center;
+    font-size: small;
+    font-weight: 300;
+    margin-top: -5cm;
+}
+.kimmy{
+    width: 18%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+.mayma{
+    width: 18%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+.morayo{
+    width: 18%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+.irma{
+    width: 18%;
+    margin-right: 5px;
+    margin-top: 6cm;
+}
+
+.las-chicas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 1cm;
+    padding-bottom: 5cm;
+    border-bottom: 1px solid white;
+}
 
 body{
     background-color: black;
@@ -273,7 +309,7 @@ h1, p, h2, h3, h2, h5 {
 /* FOOTER */
 
 footer {
-    margin-top: 120rem;
+    margin-top: 0rem;
     border-top: 1px solid white; 
 }
 
