@@ -316,6 +316,39 @@ h1, p, h2, h3, h2, h5 {
     
 }
 
+.data{
+    align-items: center;
+    justify-content: center;  
+    margin-top: 3cm;
+    font-size: larger;
+    font-weight: 500;
+}
+.contact-box{
+    align-items: center;
+    justify-content: center;
+    margin-left: 6cm;
+    margin-top: 60px;
+    color: red;
+}
+
+.contact{
+    align-items: center;
+    justify-content: center;
+    margin-left: 15cm;
+}
+
+.send{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3cm;
+    margin-bottom: 6cm;
+    margin-left: -8cm;
+    text-align: center;
+   
+}
+
+
 /* FOOTER */
 
 footer {
