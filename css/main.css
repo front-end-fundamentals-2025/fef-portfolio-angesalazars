@@ -306,6 +306,16 @@ body{
 h1, p, h2, h3, h2, h5 {
     color: white;
 }
+
+/*CONTACT PAGE*/
+.contacto{
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+    margin-left: 11.1cm;
+    
+}
+
 /* FOOTER */
 
 footer {
