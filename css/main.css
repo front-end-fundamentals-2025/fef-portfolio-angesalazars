@@ -93,7 +93,7 @@ h1, p, a, h2, h3, h2, h5
     font-weight: 700;
     font-size: large;
     text-align: left;
-    margin-top: 30px;
+    margin-top: 5%;
      
 }
 
@@ -107,27 +107,27 @@ h1, p, a, h2, h3, h2, h5
 
 ul{
     list-style: none;
-    padding-left: 10cm;
+    padding-left: 20%;
     display: flex;
     justify-content: space-between;
     text-align: right;
-    margin-left: 19cm;
-    margin-top: -70px; 
+    margin-left: 37%;
+    margin-top: -5%; 
 }
 
 
 h1{
     font-weight: 500;
-    font-size: 65px;
+    font-size: 4vw;
     text-align: center;
-    margin-top: 5cm;
+    margin-top: 17.5%;
     
 }
 
 h2{
     text-align: center;
     font-size: small;
-    margin-top: -1cm;
+    margin-top: -1.5%;
 
 }
 
@@ -142,19 +142,19 @@ a{
 
 .main-img {
     width: 12%;
-    margin-right: 5px;
+    margin-right: 0.26%;
     
 }
 
 .main-img2 {
     width: 12%;
-    margin-right: 5px;
+    margin-right: 0.26%;
  
 }
 
 .main-img3 {
     width: 12%;
-    margin-right: 15px;
+    margin-right: 0.26%;
 }
 
 .images{
@@ -162,8 +162,8 @@ a{
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    margin-top: 1cm;
-    padding-bottom: 5cm;
+    margin-top: 3.5%;
+    padding-bottom: 17.5%;
     border-bottom: 1px solid white;
 
 }
@@ -172,39 +172,39 @@ a{
 
 .elcolegio{
     text-align: center;
-    font-size: small;
+    font-size: 0.68vw;
     font-weight: 300;
-    margin-top: -12cm;
+    margin-top: -45.5%;
 }
 
 .c-one{
     width: 15%;
     margin-right: 5px;
-    margin-top: 6cm;
+    margin-top: 0.26%;
 }
 
 .c-two{
     width: 15%;
     margin-right: 5px;
-    margin-top: 6cm;
+    margin-top: 0.26%;
 }
 
 .c-three{
     width: 15%;
     margin-right: 5px;
-    margin-top: 6cm;
+    margin-top: 0.26%;
 }
 
 .c-four{
     width: 15%;
     margin-right: 5px;
-    margin-top: 6cm;
+    margin-top: 0.26%;
 }
 
 .c-five{
     width: 15%;
     margin-right: 5px;
-    margin-top: 6cm;
+    margin-top: 0.26%;
 } 
 
 .collabs{
@@ -212,8 +212,8 @@ a{
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    margin-top: 1cm;
-    padding-bottom: 5cm;
+    margin-top: 21%;
+    padding-bottom: 17.5%;
     border-bottom: 1px solid white;
 
     
@@ -221,35 +221,35 @@ a{
 
 .title{
     text-align: center;
-    font-size: small;
+    font-size: 0.68vw;
     font-weight: 300;
-    margin-top: -8cm;
+    margin-top: -28%;
 }
 
 .uno{
     width: 15%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 .dos{
     width: 15%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 .tres{
     width: 15%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 .cuatro{
     width: 15%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 .cinco{
     width: 15%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 
 .la-lista-de-espera{
@@ -257,36 +257,36 @@ a{
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    margin-top: 1cm;
-    padding-bottom: 5cm;
+    margin-top: 3.5%;
+    padding-bottom: 17.5%;
     border-bottom: 1px solid white;
 }
 
 .titulo{
     text-align: center;
-    font-size: small;
+    font-size: 0.68vw;
     font-weight: 300;
-    margin-top: -5cm;
+    margin-top: -17.5%;
 }
 .kimmy{
     width: 18%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 .mayma{
     width: 18%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 .morayo{
     width: 18%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 .irma{
     width: 18%;
-    margin-right: 5px;
-    margin-top: 6cm;
+    margin-right: 0.26%;
+    margin-top: 21%;
 }
 
 .las-chicas{
@@ -294,8 +294,8 @@ a{
     align-items: center;
     justify-content: center;
     flex-direction: row;
-    margin-top: 1cm;
-    padding-bottom: 5cm;
+    margin-top: 3.5%;
+    padding-bottom: 17.5%;
     border-bottom: 1px solid white;
 }
 
@@ -312,7 +312,7 @@ h1, p, h2, h3, h2, h5 {
     width: 40%;
     align-items: center;
     justify-content: center;
-    margin-left: 11.1cm;
+    margin-left: 30%;
     
 }
 
@@ -320,32 +320,34 @@ h1, p, h2, h3, h2, h5 {
     color: red;
     align-items: center;
     justify-content: center;  
-    margin-top: 3cm;
-    font-size: larger;
+    margin-top: 10.5%;
+    font-size: 0.83vw;
     font-weight: 500;
 }
 .contact-box{
     align-items: center;
     justify-content: center;
-    margin-left: 6cm;
-    margin-top: 60px;
+    margin-left: 31.8%;
+    margin-top: 5.56%;
     color: red;
+
 }
 
 .contact{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 15cm;
+    margin-left: 45%;
 }
 
 .send{
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 3cm;
-    margin-bottom: 6cm;
-    margin-left: -8cm;
+    margin-top: 10%;
+    margin-bottom: 21%;
+    margin-left: -45.8%;
     text-align: center;
    
 }
@@ -354,23 +356,23 @@ h1, p, h2, h3, h2, h5 {
 /* FOOTER */
 
 footer {
-    margin-top: 0rem;
+    margin-top: 19rem;
     border-top: 1px solid white; 
 }
 
 h5{
     text-align: left;
-    font-size: small;
+    font-size: 0.68vw;
     font-weight: 600;
     
 }
 
 .haha{
 
-    font-size: small;
+    font-size: 0.68vw;
     font-weight: 300;
-    padding-left: 8cm;
-    padding-top: -8cm;
+    padding-left: 15.8%;
+    padding-top: -28%;
 }
 
 .button1 {
