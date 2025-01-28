@@ -307,6 +307,7 @@ h1, p, h2, h3, h2, h5 {
     color: white;
 }
 
+
 /*CONTACT PAGE*/
 .contacto{
     width: 40%;
@@ -379,3 +380,17 @@ h5{
     color:blueviolet;
 }
 
+/* GALLERY */
+
+.muestra-container{
+    display: grid;
+    grid-template-columns: repeat (5, 1fr);
+}
+
+.muestra-uno{
+    font-weight: 200;
+    width: 50%;
+    display: flex;
+    margin-top: 4rem; 
+    margin-left: 9rem;
+}
