@@ -175,6 +175,18 @@ a{
     font-size: 0.68vw;
     font-weight: 300;
     margin-top: -45.5%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    color: white;
+}
+
+.grid-one{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 6%;
 }
 
 .c-one{
@@ -207,12 +219,15 @@ a{
     margin-top: 0.26%;
 } 
 
+.c-six{
+    width: 15%;
+    margin-right: 5px;
+    margin-top: 0.26%;
+} 
+
+
 .collabs{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-    margin-top: 21%;
+    margin-top: 15%;
     padding-bottom: 17.5%;
     border-bottom: 1px solid white;
 
@@ -251,6 +266,7 @@ a{
     margin-right: 0.26%;
     margin-top: 21%;
 }
+
 
 .la-lista-de-espera{
     display: flex;
@@ -299,6 +315,80 @@ a{
     border-bottom: 1px solid white;
 }
 
+.sicilia-uno{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+.sicilia-dos{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+.sicilia-tres{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+.sicilia-cuatro{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+.sicilia-cinco{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+
+.sicilia{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 3.5%;
+    padding-bottom: 17.5%;
+    border-bottom: 1px solid white;
+
+}
+
+.universidad-uno{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+.universidad-dos{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+.universidad-tres{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+.universidad-cuatro{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+.universidad-cinco{
+    width: 15%;
+    margin-right: 0.26%;
+    margin-top: 21%;
+}
+
+.universidad {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 3.5%;
+    padding-bottom: 17.5%;
+    border-bottom: 1px solid white;
+
+}
+
 body{
     background-color: black;
 }
@@ -309,39 +399,21 @@ h1, p, h2, h3, h2, h5 {
 
 
 /*CONTACT PAGE*/
-/* .contacto{
-    width: 40%;
-    align-items: center;
-    justify-content: center;
-    margin-left: 30%;
-    
-}
 
-.data{
-    color: red;
-    align-items: center;
-    justify-content: center;  
-    margin-top: 10.5%;
-    font-size: 0.83vw;
-    font-weight: 500;
-}
+
 .contact-box{
     align-items: center;
     justify-content: center;
-    margin-left: 31.8%;
+    margin-left: 0%;
     margin-top: 5.56%;
+    font-weight: 400;
     color: red;
 
 }
 
-.contact{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-left: 45%;
-} */
 
-.button1{
+
+.contact-info{
     display: flex;
     gap: 10px;
     flex-direction: column;
@@ -349,12 +421,13 @@ h1, p, h2, h3, h2, h5 {
     justify-content: center;
     margin-top: 10%;
     margin-bottom: 21%;
-    margin-left: 20%;
     text-align: center;
-    color: red;
-    font-size: 0.83vw;
-    font-weight: 500;
    
+}
+
+#name, #e-mail, #message, #button{
+    width: 25%;
+
 }
 
 
@@ -389,13 +462,18 @@ h5{
 .muestra-container{
     display: grid;
     /* grid-template-columns: repeat (5, 1fr); */
-    grid-template-columns: 1fr, 1fr, 1fr, 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    
 }
 
+
+
+
 .muestra-uno{
+    color: red;
     font-weight: 200;
-    width: 50%;
+    width: 60%;
     display: flex;
     margin-top: 4rem; 
-    margin-left: 9rem;
+    margin-left: 1.5rem;
 }
