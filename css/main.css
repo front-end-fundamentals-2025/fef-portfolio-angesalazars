@@ -309,7 +309,7 @@ h1, p, h2, h3, h2, h5 {
 
 
 /*CONTACT PAGE*/
-.contacto{
+/* .contacto{
     width: 40%;
     align-items: center;
     justify-content: center;
@@ -339,17 +339,21 @@ h1, p, h2, h3, h2, h5 {
     align-items: center;
     justify-content: center;
     margin-left: 45%;
-}
+} */
 
-.send{
+.button1{
     display: flex;
+    gap: 10px;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     margin-top: 10%;
     margin-bottom: 21%;
-    margin-left: -45.8%;
+    margin-left: 20%;
     text-align: center;
+    color: red;
+    font-size: 0.83vw;
+    font-weight: 500;
    
 }
 
@@ -384,7 +388,8 @@ h5{
 
 .muestra-container{
     display: grid;
-    grid-template-columns: repeat (5, 1fr);
+    /* grid-template-columns: repeat (5, 1fr); */
+    grid-template-columns: 1fr, 1fr, 1fr, 1fr;
 }
 
 .muestra-uno{
