@@ -132,10 +132,20 @@ h2{
 }
 
 
-
 a{
     font-weight: 600;
     color: red;
+}
+
+@media screen and (max-width: 520px) {
+    header, ul {
+    flex-direction: column;
+    align-items: start;
+}
+li {
+    margin-left: 0;
+}
+
 }
 
 /* MAIN */
@@ -395,6 +405,19 @@ body{
 
 h1, p, h2, h3, h2, h5 {
     color: white;
+}
+
+@media screen and (min-width: 520px) {
+    .universidad, .sicilia, .las-chicas, .la-lista-de-espera, .elcolegio {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (min-width: 750px) {
+    .universidad, .sicilia, .las-chicas, .la-lista-de-espera, .elcolegio {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
 
 
