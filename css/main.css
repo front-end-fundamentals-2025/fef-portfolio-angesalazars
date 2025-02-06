@@ -124,6 +124,27 @@ h1{
     
 }
 
+.animated-text {
+    animation-name: color-animation;
+    animation-duration: 10s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+
+@keyframes color-animation {
+    0% {
+        background-color: red;
+    }
+    50% {
+        background-color: deeppink;
+    }
+    100% {
+        background-color: cyan;
+    }
+}
+
 h2{
     text-align: center;
     font-size: small;
