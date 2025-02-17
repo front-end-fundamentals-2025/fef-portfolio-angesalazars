@@ -115,6 +115,43 @@ ul{
     margin-top: -5%; 
 }
 
+body{
+    background-color: black;
+    color: white;
+}
+
+.light-mode {
+    background-color: white;
+    color: black;
+}
+
+.light-mode h1,
+.light-mode p,
+.light-mode h2,
+.light-mode h3,
+.light-mode h5 {
+     color: black;
+}
+
+.light-mode a {
+    color: red;
+}
+
+.light-mode .animated-text {
+    animation-name: color-animation-light;
+}
+
+@keyframes color-animation-light {
+    0% {
+        background-color: red;
+    }
+    50% {
+        background-color: deeppink;
+    }
+    100%{
+        background-color: cyan;
+    }
+}
 
 h1{
     font-weight: 500;
